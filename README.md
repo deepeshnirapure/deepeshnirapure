@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **React and Nextjs Projects**
 
-- 📝 I regularly write articles on [https://mgaapp.in/blog/](https://mgaapp.in/blog/)
+- 📝 I regularly write articles on [[https://mgaapp.in/blog/]](https://www.getcodework.com/blogs)
 
 - 💬 Ask me about **HTML,CSS,REACT and Nextjs**
 
